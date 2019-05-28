@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hy-weaper{
+    width: 80%;
+    height: 100vh;
+    border: 1px solid antiquewhite;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}
+.hy-weaper h1{
+    text-align: center;
+    margin: 4%;
+}
+.hy-wow-circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    line-height: 200px;
+    
+}
+.hy-wow-colour1{
+    background-color: skyblue;
+}
+.hy-wow-colour2{
+    background-color: yellowgreen;
+}
+.hy-wow-colour3{
+    background-color: #FAEBD7;
+}
+.hy-wow-colour4{
+    background-color: darkseagreen;
+}
