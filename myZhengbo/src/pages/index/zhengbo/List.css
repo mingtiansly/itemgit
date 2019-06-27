@@ -1,0 +1,127 @@
+
+
+.clear{
+    clear: both;
+}
+.top1{
+     position: absolute;
+     width: 100%;
+}
+.black{
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    max-height: 200px;
+}
+.top{
+    position: relative;
+    z-index: 1;
+    top: 28px;
+    margin-bottom: 50px;
+    
+}
+.top2{
+    position: relative;
+    z-index: 1;
+    top: -25px;
+    margin-bottom: 50px;
+    
+}
+.back , .wenzi , .zb {
+    float: left;
+}
+.back{
+    width: 13vw;
+    margin-left: 3vw;
+    
+}
+.wenzi {
+    width: 52vw;
+    margin-left: 6vw;
+}
+.zb{
+    float: right;
+    width: 18vw;
+    margin-right: 3vw;
+    margin-top: 8px;
+    max-height: 120px;
+}
+.ul{
+     position: relative;
+     top: 70px;
+     width: 90vw;
+     margin-left: 5vw;
+}
+.li{
+   
+    font-size: 30px;
+    padding: 15px 0px;
+    color: darkslategrey;
+    font-weight: 400;
+    line-height: 55px;
+    border-bottom: 1px darkgrey dashed ;
+}
+.li a{
+    color: darkslategrey;
+    display: block;
+}
+.page{
+    position: fixed;
+    bottom: 1.7rem;
+    
+    
+    width: 90vw;
+    margin-left: 5vw;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 4px 9px #A9A9A9;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: darkslategray;
+}
+.previous , .next{
+    color: cadetblue;
+    margin-left: 15px;
+}
+
+
+/* 详情 */
+.details{
+    color:black;
+    
+}
+.article{
+    font-size: 28px;
+    padding-top:25px;
+    border-top:1px solid #eee;
+
+}
+.article img{
+    max-width: 100%;
+}
+.deta{
+    display: block;
+    
+    margin-left: 15px;
+}
+.despan{
+     margin-left: 15px;
+       margin-top: 15px;
+       margin-bottom: 8px;
+       font-size: 24px;
+       color: gray;
+}
+.despan1{
+       float: right;
+       margin-right: 15px;
+       font-size: 24px;
+       color: gray;
+        margin-top: 20px;
+}
+.article{
+    margin: 25px;
+    line-height:45px;
+}
